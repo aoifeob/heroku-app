@@ -14,6 +14,7 @@ class App extends Component {
 
 <p> The following is my definitive list of Best Internet Cats:</p>
 <p><ol><li>Grumpy Cat</li><li>British Treasury Cat</li><li>10 Downing Street Cat</li><li>Garfield</li></ol></p>
+<p> I love cats.  I love every kind of cat.</p>
       </div>
     );
   }
