@@ -10,7 +10,10 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h2>Welcome to React</h2>
         </div>
-<p className="App-intro" size="100"> I was told the purpose of the internet is to look at cat pictures.  Why can't I see cat pictures? </p>
+<p> I was told the purpose of the internet is to look at cat pictures.  Why can't I see cat pictures? </p>
+
+<p> The following is my definitive list of Best Internet Cats:</p>
+<p><ol><li>Grumpy Cat</li><li>British Treasury Cat</li><li>10 Downing Street Cat</li><li>Garfield</li></ol></p>
       </div>
     );
   }
